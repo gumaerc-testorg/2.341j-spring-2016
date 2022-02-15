@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains the information regarding Macromolecular Hydrodynamics:
   Topic 5: Polymer Physics: Gaussian Chains and Entropic Elasticity (Sessions 12-13).'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-341j-macromolecular-hydrodynamics-spring-2016/85d0e13736b399d0cb5854902b931e34_MIT2_341JS16_Lec13-slides.pdf
+file: /media/courses/2-341j-macromolecular-hydrodynamics-spring-2016/85d0e13736b399d0cb5854902b931e34_MIT2_341JS16_Lec13-slides.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Macromolecular Hydrodynamics: Topic 5: Polymer Physics: Gaussian Chains and
   Entropic Elasticity (Sessions 12-13)'

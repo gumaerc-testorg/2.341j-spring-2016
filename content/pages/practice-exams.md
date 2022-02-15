@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Practice Exams
 uid: c67f4fbd-9d80-1d4b-6a2b-e13859ce029d
 ---
