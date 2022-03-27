@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7e774e56-748c-6c0f-6286-b55ba1caa657
 resourcetype: Document
 title: 'Macromolecular Hydrodynamics: Topic 5: Polymer Physics: Gaussian Chains and
   Entropic Elasticity (Sessions 12-13)'

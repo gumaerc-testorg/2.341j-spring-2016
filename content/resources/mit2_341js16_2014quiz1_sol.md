@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Practice Exams
 parent_type: CourseSection
+parent_uid: c67f4fbd-9d80-1d4b-6a2b-e13859ce029d
 resourcetype: Document
 title: 'Macromolecular Hydrodynamics: Solutions to Quiz 1 from 2014'
 uid: 4fb4b28f-c144-0ea1-c06b-638f4445dd9f

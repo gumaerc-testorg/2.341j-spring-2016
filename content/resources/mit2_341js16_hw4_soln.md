@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Homework
 parent_type: CourseSection
+parent_uid: 729e0f5b-eded-f64b-8b9b-e0105fb0d2c7
 resourcetype: Document
 title: 'Macromolecular Hydrodynamics: Homework 4: 5B-3, 5B-5, 5B-8, 5C-2'
 uid: 6cb6ed4f-b8dd-b14b-7c98-1f685d444296
