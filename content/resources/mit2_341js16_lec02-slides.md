@@ -6,6 +6,7 @@ file: /courses/2-341j-macromolecular-hydrodynamics-spring-2016/09d1e70558b8678c9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Macromolecular Hydrodynamics: Topic 1: Review of Newtonian Fluid Mechani
 uid: 09d1e705-58b8-678c-9712-932a5fc55beb
 ---
 This resource contains the information regarding Macromolecular Hydrodynamics: Topic 1: Review of Newtonian Fluid Mechanics (Sessions 1-3).
-

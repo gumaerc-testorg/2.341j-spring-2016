@@ -5,6 +5,7 @@ description: 'This resource contains information regarding macromolecular hydrod
 file: /courses/2-341j-macromolecular-hydrodynamics-spring-2016/e65c8dcd3064857b009df0c58aec6c2d_MIT2_341JS16_Hw3_Soln.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Homework
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Macromolecular Hydrodynamics: Homework 3: 4B-1, 4B-4, 4B-7, 4B-12 and op
 uid: e65c8dcd-3064-857b-009d-f0c58aec6c2d
 ---
 This resource contains information regarding macromolecular hydrodynamics: Homework.
-

@@ -6,6 +6,7 @@ file: /courses/2-341j-macromolecular-hydrodynamics-spring-2016/d85af68c4245f879f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Macromolecular Hydrodynamics: Topic 3: Generalized Newtonian Fluids (GNF
 uid: d85af68c-4245-f879-fccd-af27d0444196
 ---
 This resource contains the information regarding Macromolecular Hydrodynamics: Topic 3: Generalized Newtonian Fluids (GNF) (Sessions 7-8).
-
