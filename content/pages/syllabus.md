@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides course policy for the MIT course 2.341 Macromolecular
+  Hydrodynamics of Spring 2016, taught by Prof. Gareth McKinley.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1ad6f589-af3e-2b7c-02d8-67176b6e9aaa
 ---

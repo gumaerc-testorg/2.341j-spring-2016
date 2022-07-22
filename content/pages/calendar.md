@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains the course schedule for the MIT course 2.341 Macromolecular
+  Hydrodynamics of Spring 2016, taught by Prof. Gareth McKinley.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 36750b55-3f43-6c5a-7bf6-e427b48724ba
 ---
