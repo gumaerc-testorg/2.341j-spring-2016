@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains the information regarding Topic 9: Suspensions\
   \ Rheology (Sessions 23\u201324)."
 file: /courses/2-341j-macromolecular-hydrodynamics-spring-2016/4940640c8f594be8046e044b571e02c6_MIT2_341JS16_Lec23-slides.pdf
+file_size: 2234906
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
