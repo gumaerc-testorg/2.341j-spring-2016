@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding Macromolecular Hydrodynamics:
   Topic 3: Generalized Newtonian Fluids (GNF) (Sessions 7-8).'
 file: /courses/2-341j-macromolecular-hydrodynamics-spring-2016/d85af68c4245f879fccdaf27d0444196_MIT2_341JS16_Lec09-slides.pdf
+file_size: 1234562
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
