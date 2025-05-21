@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Macromolecular Hydrodynamics:
   Topic 1: Review of Newtonian Fluid Mechanics (Sessions 1-3).'
-file: /ol-ocw-studio-app/courses/2-341j-macromolecular-hydrodynamics-spring-2016/09d1e70558b8678c9712932a5fc55beb_MIT2_341JS16_Lec02-slides.pdf
+file: /courses/2-341j-macromolecular-hydrodynamics-spring-2016/09d1e70558b8678c9712932a5fc55beb_MIT2_341JS16_Lec02-slides.pdf
 file_size: 1621648
 file_type: application/pdf
 learning_resource_types:

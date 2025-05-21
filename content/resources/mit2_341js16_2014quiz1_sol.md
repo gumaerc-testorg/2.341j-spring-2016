@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding macromolecular hydrodynamics:
   Quiz solution.'
-file: /ol-ocw-studio-app/courses/2-341j-macromolecular-hydrodynamics-spring-2016/4fb4b28fc1440ea1c06b638f4445dd9f_MIT2_341JS16_2014Quiz1_sol.pdf
+file: /courses/2-341j-macromolecular-hydrodynamics-spring-2016/4fb4b28fc1440ea1c06b638f4445dd9f_MIT2_341JS16_2014Quiz1_sol.pdf
 file_size: 4669839
 file_type: application/pdf
 learning_resource_types:
