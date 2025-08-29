@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding macromolecular hydrodynamics:
   Homework.'
-file: /courses/2-341j-macromolecular-hydrodynamics-spring-2016/6cb6ed4fb8ddb14b7c981f685d444296_MIT2_341JS16_Hw4_Soln.pdf
+file: /ol-ocw-studio-app/courses/2-341j-macromolecular-hydrodynamics-spring-2016/6cb6ed4fb8ddb14b7c981f685d444296_MIT2_341JS16_Hw4_Soln.pdf
 file_size: 935333
 file_type: application/pdf
 learning_resource_types: []
