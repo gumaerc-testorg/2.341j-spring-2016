@@ -49,7 +49,7 @@ Walters, K. _Rheometry_. Chapman and Hall, 1975. ISBN: 9780412120909.
 
 Probstein, R. F. _Physicochemical Hydrodynamics: An Introduction_. 2nd ed. Wiley-Interscience, 1994. ISBN: 9780471010111.
 
-Ferry, J. D. _Viscoelastic Properties of Polymers_. 3rd ed. Wiley, 1980. ISBN: 9780471048947. \[Preview with [Google Books](http://books.google.com/books?id=9dqQY3Ujsx4C&pg=PAfrontcover)\]
+Ferry, J. D. _Viscoelastic Properties of Polymers_. 3rd ed. Wiley, 1980. ISBN: 9780471048947. \[Preview with {{% resource_link "debd4ae5-222c-41e4-b10e-99e2625558dc" "Google Books" %}}\]
 
 Homework
 --------
@@ -59,7 +59,7 @@ Homework will be handed out through the semester. The purpose of these is to hel
 Special Projects
 ----------------
 
-Each student in the course will be asked to do a special project (projects chosen to match students research interests) which might, for example, consist of critiquing and / or extending an article in one of the standard rheology journals—_[Journal of Rheology](http://sor.scitation.org/journal/jor), [Journal of Non-Newtonian Fluid Mechanics](https://www.journals.elsevier.com/journal-of-non-newtonian-fluid-mechanics), [Rheologica Acta](https://link.springer.com/journal/397), [Soft Matter](http://pubs.rsc.org/en/journals/journalissues/sm#!recentarticles&adv)_.
+Each student in the course will be asked to do a special project (projects chosen to match students research interests) which might, for example, consist of critiquing and / or extending an article in one of the standard rheology journals—_{{% resource_link "cbd2cc04-320e-49d6-ac0c-3e323f2ecc46" "Journal of Rheology" %}}, {{% resource_link "660abda7-bd8d-43f2-870a-6027762c7252" "Journal of Non-Newtonian Fluid Mechanics" %}}, {{% resource_link "b71765b2-6683-4bb8-a0f6-50b0a67a94c8" "Rheologica Acta" %}}, {{% resource_link "e5b13b01-0878-471c-a839-9232f0a51333" "Soft Matter" %}}_.
 
 In addition there will be a short (10min) in-class presentation in the last two sessions.
 
